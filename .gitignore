@@ -1,0 +1,7 @@
+﻿.env
+.env.*
+!.env.example
+*.log
+**/Dockerfile.txt
+backups/
+jenkins_home_backup*
